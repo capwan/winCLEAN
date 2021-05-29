@@ -1,4 +1,4 @@
-# winCLEAN
+# Windows Cleaning Script
 
 1. Create folder "winCLEAN"
 2. Create folder "Powershelscripts"
