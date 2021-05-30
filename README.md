@@ -6,4 +6,4 @@
 4. Move "Cleaning1.ps1" to "Powershelscripts".
 5. Move "prefetch.bat" & "temp.bat".
 6. Contain "clean.bat" to folder "winCLEAN".
-7. Run "clean.bat".
+7. Run "clean.bat" by Administrator.(Right-click on "clean.bat")
