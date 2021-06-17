@@ -1,4 +1,4 @@
-# About
+# winCLEAN
 
 Script which cleans unnecessary files from `temp` and `prefetch` folders automatically and cleans recycle bin.
 
