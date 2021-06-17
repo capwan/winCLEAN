@@ -15,3 +15,5 @@ Script which cleans unnecessary files from `temp` and `prefetch` folders automat
 5. Move `prefetch.bat` & `temp.bat`.
 6. Contain `clean.bat` to folder `winCLEAN`.
 7. Run `clean.bat` by Administrator.(Right-click on `clean.bat`)
+
+**You could be stop the process by press "CTRL+C".**
